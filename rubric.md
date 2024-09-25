@@ -12,7 +12,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (4 pts)
 
-__YES?__ 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
+__YES__ 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
 
 __YES__ 1 pt: Program queries user for number of conversation rounds
 
@@ -30,9 +30,9 @@ __YES__ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercas
 
 ### Level 3 (3 pts)
 
-__PART__ 1 pt: Makes all appropriate mirror replacements
+__YES__ 1 pt: Makes all appropriate mirror replacements
 
-__NO__ 1 pt: Stores transcript of the conversation in an array
+__YES__ 1 pt: Stores transcript of the conversation in an array
 
 __YES__ 1 pt: Prints transcript when terminating
 
@@ -42,7 +42,7 @@ __PART?__ (Kudos!) Handles mirror words with punctuation
 
 __PART?__ (Kudos!) Generates output with correct punctuation & capitalization
 
-__NO__ (Kudos!) Handles you --> me/I dilemma
+__NO?__ (Kudos!) Handles you --> me/I dilemma
 
 
 
@@ -54,7 +54,7 @@ __YES__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
 _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      __PART__ Classes & class members all have Javadoc header comments
+      __YES?__ Classes & class members all have Javadoc header comments
 
       __YES__ Clear and consistent indentation of bracketed sections
 
